@@ -1,0 +1,9 @@
+body {
+  background-color: #2f5572;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+
+body a {
+    text-decoration: none;
+  }
